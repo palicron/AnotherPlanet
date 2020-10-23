@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Levels/Word1/LOadScene.unity
+    guid: eabbd506b566e0e479c15f5a45fc39a9
+  - enabled: 1
+    path: Assets/_Levels/Word1/MainMenu.unity
+    guid: d91ca08a0c1574c4380afc8c7e6bdb04
+  - enabled: 1
+    path: Assets/_Levels/Word1/W1B1.unity
+    guid: c63a77a433cea4942a9367b7e3a87508
+  - enabled: 1
+    path: Assets/_Levels/Word1/W1B2.unity
+    guid: 2d31addf0cb485241ad335f25862e284
+  - enabled: 1
+    path: Assets/_Levels/Word1/W1P3.unity
+    guid: 82c8bd711c6a15546a9260935ab449c4
+  m_configObjects: {}

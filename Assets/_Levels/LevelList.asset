@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c39e05a71067a4692f8b681439422e, type: 3}
+  m_Name: LevelList
+  m_EditorClassIdentifier: 
+  Menu: MainMenu
+  levels:
+  - W1B1
+  - W1B2
+  - W1P3
+  Descripcion:
+  - The fortress of Doom
+  - Demolition Tank
+  - Dark Emperor Mordecai
+  opens: 010000
